@@ -1,0 +1,8 @@
+Para realizar el despliegue desde git Lab
+
+
+1) Realizaria el versionamiento al repositorio del Git Lab.
+
+2) Programaria el Pipeline  para realizar el push al servidor 
+adecuado  para que cuando realice versionamientos en la herramienta 
+este haga despliegues a utomaticos.
